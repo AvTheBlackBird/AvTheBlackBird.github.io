@@ -2,10 +2,10 @@
 layout: page
 title: SAE International Aero Design
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/aero_west_22_0337.jpg
 importance: 1
-category: work
-related_publications: true
+category: project
+related_publications: False
 ---
 
 Every project has a beautiful feature showcase page.
