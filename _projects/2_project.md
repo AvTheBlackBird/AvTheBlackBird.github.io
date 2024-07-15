@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Tirtha 
+description: 3D scene generation of historical temples using Gaussian Splatting
+img: assets/img/tirtha.png
 importance: 2
 category: work
+redirect: https://smlab.niser.ac.in/project/tirtha/
 giscus_comments: true
 ---
 
@@ -43,6 +44,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.

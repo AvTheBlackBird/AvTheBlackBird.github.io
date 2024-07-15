@@ -1,11 +1,11 @@
 ---
 layout: page
-title: SAE International Aero Design
-description: with background image
+title: SAE International Aero Design West 2022
+description: 2nd Rank in the design 
 img: assets/img/aero_west_22_0337.jpg
 importance: 1
-category: project
-related_publications: False
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -21,6 +21,21 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
+<div class="embed-container">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe
+            src="https://www.youtube.com/embed/dC_3NIQKyjE"
+            width="800"
+            height="480"
+            frameborder="0"
+            allowfullscreen>
+        </iframe>
+    </div>
+</div>
+<div class="caption">
+    Flight Round of the SAE International Aero Design competition
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -32,6 +47,7 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>

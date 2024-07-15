@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Selected Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+# description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
+display_categories: [work] # can include multiple categories in list format [work, fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
